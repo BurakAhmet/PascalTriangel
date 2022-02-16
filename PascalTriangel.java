@@ -1,6 +1,4 @@
 import java.util.Scanner;
-
-import java.util.Scanner;
 public class PascalTriangel {
 	
 	public static void pascal(int order) {
